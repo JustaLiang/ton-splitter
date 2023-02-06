@@ -6,5 +6,5 @@ Group expense splitter bot connect to telegram wallet and paid by TON.
 
 
 ### Commands
-pay: how much user pay
+pay: how much user pay  
 split: split the total expenses
