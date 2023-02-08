@@ -2,7 +2,7 @@
 Group expense splitter bot connect to telegram wallet and paid by TON.
 
 ### Bot Link
-[t.me/TonSplitterBot](t.me/TonSplitterBot)
+[t.me/TonSplitterBot](https://t.me/TonSplitterBot)
 
 
 ### Commands
